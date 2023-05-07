@@ -1,4 +1,4 @@
-Eye Movement Tracker
+# Eye Movement Tracker
 
 ![eyes that follow your cursor around the screen](./eyes.png)
 These eyes follow your mouse cursor around the screen. I made them while learning about how to manipulate the DOM and use getElementByClassName. From the MITx Fullstack Certificate Course.
