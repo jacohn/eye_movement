@@ -1,15 +1,19 @@
 Eye Movement Tracker
 
-![eyes that follow a mouse cursor around a screen][./eyes.png]
-These eyes follow your mouse cursor around the screen. I made them while learning about how to manipulate the DOM and use getElementByClassName. From the MITx Fullstack Bootcamp
+![eyes that follow your cursor around the screen](./eyes.png)
+These eyes follow your mouse cursor around the screen. I made them while learning about how to manipulate the DOM and use getElementByClassName. From the MITx Fullstack Certificate Course.
+
+How to run:
+
+1) Download this repository.
+2) Open index.html in your browser. 
+3) Voila!
 
 Upcoming Features:
-- Eyes  designed to fit in any container element
+
+- Eyes designed to fit in any container element
 - Eyes that sparkle as your cursor approaches
 - Eyes that turn red when you poke them with your mouse
-
-
-
 
 Copyright 2023 Jonathan Cohn
 
